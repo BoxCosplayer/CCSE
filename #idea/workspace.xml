@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b1c0a37-a181-4e88-8c2a-b562bcbcddee" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2s8tJwnGSoG3NYfrQrRnoahlIB1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;js.last.introduce.type&quot;: &quot;LET&quot;,
+    &quot;last_opened_file_path&quot;: &quot;R:/..Docs/Uni/Y2/CCSE/cw1/src/app/Account/Signup&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;R:\\..Docs\\Uni\\Y2\\CCSE\\cw1\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="R:\..Docs\Uni\Y2\CCSE\cw1\src\app\Account\Signup" />
+      <recent name="R:\..Docs\Uni\Y2\CCSE\cw1\src\app\categories" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="R:\..Docs\Uni\Y2\CCSE\cw1\src" />
+      <recent name="R:\..Docs\Uni\Y2\CCSE\cw1\src\app\product\[productID]" />
+      <recent name="R:\..Docs\Uni\Y2\CCSE\cw1\src\app\categories\fashion" />
+      <recent name="R:\..Docs\Uni\Y2\CCSE\cw1\src\app\categories\page.tsx" />
+      <recent name="R:\..Docs\Uni\Y2\CCSE\cw1\src\app\categories\electronics" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b1c0a37-a181-4e88-8c2a-b562bcbcddee" name="Changes" comment="" />
+      <created>1737848962007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737848962007</updated>
+      <workItem from="1737848963024" duration="201000" />
+      <workItem from="1737980750888" duration="8327000" />
+      <workItem from="1737997619950" duration="3245000" />
+      <workItem from="1738161590455" duration="3930000" />
+      <workItem from="1738419235769" duration="642000" />
+      <workItem from="1738762580417" duration="15607000" />
+      <workItem from="1738782637852" duration="8266000" />
+      <workItem from="1738802778864" duration="549000" />
+      <workItem from="1738843433624" duration="38884000" />
+      <workItem from="1739031417557" duration="296000" />
+      <workItem from="1739741941379" duration="30006000" />
+      <workItem from="1739828460233" duration="25295000" />
+      <workItem from="1739921530763" duration="27000" />
+      <workItem from="1739922010812" duration="724000" />
+      <workItem from="1748851592573" duration="32000" />
+      <workItem from="1748851630763" duration="2027000" />
+      <workItem from="1748946262456" duration="3049000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
